@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608693284 source:c:\e\dsa\array6.c
+	<stdio.h>
+	<stdlib.h>
+
+1608693684 source:c:\e\dsa\array7.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1609920190 source:c:\e\dsa\dp 417.cpp
+	<bits/stdc++.h>
+
+1611316537 source:c:\e\dsa\matrix 44.cpp
+	<bits/stdc++.h>
+
+1611494523 source:c:\e\dsa\test1.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+
+1611588985 source:c:\e\dsa\string 56.cpp
+	<bits/stdc++.h>
+
+1611643879 source:c:\e\dsa\s&s 101.cpp
+	<bits/stdc++.h>
+
+1611660172 source:c:\e\dsa\linkedlistheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1611764139 source:c:\e\dsa\greedy 238.cpp
+	<bits/stdc++.h>
+
+1611843285 source:c:\e\dsa\backtracking 275.cpp
+	<bits/stdc++.h>
+
+1612673454 source:c:\e\dsa\array 42.cpp
+	<bits/stdc++.h>
+
+1613447343 source:c:\e\dsa\binarytree 177.cpp
+	<bits/stdc++.h>
+
+1613463190 source:c:\e\dsa\binarytree 179.cpp
+	<bits/stdc++.h>
+
+1613477199 source:c:\e\dsa\test1.cpp
+	<bits/stdc++.h>
+
