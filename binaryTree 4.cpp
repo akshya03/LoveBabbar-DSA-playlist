@@ -1,3 +1,4 @@
+//diameter of tree
 //time complexity for naive approach=nh
 //h= lg n for balanced tree, n for unbalanced tree
 //time complexity for better approach=n

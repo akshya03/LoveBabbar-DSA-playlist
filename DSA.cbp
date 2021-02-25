@@ -73,7 +73,27 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="dp 14.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dp 15.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dp 2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="dp 22.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dp 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dp 7.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -81,7 +101,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="graph 1.cpp" />
+		<Unit filename="graph 1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="greedy 1.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -103,7 +126,15 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="matrix 62.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="random 31.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="random 32.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -111,7 +142,28 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="search&amp;sort 2.cpp" />
+		<Unit filename="stk&amp;que 4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="string 1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 44.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 5.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
