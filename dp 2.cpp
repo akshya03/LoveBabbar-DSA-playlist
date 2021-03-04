@@ -32,10 +32,16 @@ int knapSack(int W, int wt[], int val[], int n)
             dp[i][j]=dp[i-1][j];
     }
    }
+   for(i=0;i<=n;++i){
+    for(j=0;j<=W;++j)
+        cout<<dp[i][j]<<" ";
+    cout<<endl;h
+   }
    return dp[n][W];
 }
 
 int main(){
+
     int n,W;
     cin>>n>>W;
     int val[n],wt[n];

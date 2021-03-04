@@ -35,6 +35,22 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="array10.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array11.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array12.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array13.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="array6.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
@@ -42,6 +58,10 @@
 		</Unit>
 		<Unit filename="array7.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array8.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -66,6 +86,18 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="binaryTree 4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 6.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 7.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 8.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -105,6 +137,11 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="graph 2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="graph 3.cpp" />
 		<Unit filename="greedy 1.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -142,7 +179,14 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="search&amp;sort 2.cpp" />
+		<Unit filename="search&amp;sort 2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="search&amp;sort 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="stk&amp;que 4.cpp">
 			<Option compile="0" />
 			<Option link="0" />

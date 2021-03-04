@@ -19,12 +19,13 @@ void solve(int arr[],int m ,int n){
                 //++dp[j];
                 dp[j]+=dp[j-arr[i]];
         }
-        //display(dp,n+1);
+        display(dp,n+1);
     }
     cout<<"Total possible ways="<<dp[n]<<endl;
 }
 
 int main(){
+
     int n,m,i;
     cout<<"Enter no. of coins and total sum:";
     cin>>m>>n;
