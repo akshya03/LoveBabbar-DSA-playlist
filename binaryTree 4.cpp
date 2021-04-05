@@ -15,24 +15,6 @@ struct Node{
     }
 };
 
-Node* addNodeBST(Node* root,int x){
-    if(!root)
-        return new Node(x);
-    if(x<root->data)
-        root->left=addNodeBST(root->left,x);
-    else if(x>root->data)
-        root->right=addNodeBST(root->right,x);
-    return root;
-}
-
-void inOrder(Node* root){
-    if(root){
-        inOrder(root->left);
-        cout<<root->data<<" ";
-        inOrder(root->right);
-    }
-}
-
 int height(Node* root){
     if(!root)
         return 0;
@@ -42,7 +24,7 @@ int height(Node* root){
     return max(left,right)+1;
 }
 
-int diameter(Node* root){
+int diameter(Node* root){   //O(n2)
     if(!root)
         return 0;
 
@@ -56,6 +38,24 @@ int diameter(Node* root){
 
 }
 
+int heightHelper(Node* root,int& d){
+    if(!root)
+        return 0;
+    int left,right;
+    left=heightHelper(root->left,d);
+    right=heightHelper(root->right,d);
+
+    d=max(d,left+right+1);  //max(prev diameter, diameter of root)
+    return max(left,right)+1;
+}
+
+int diameterBetter(Node* root){ //O(n)
+    int d=0;    //ans
+    heightHelper(root,d);
+    return d;
+}
+
+
 int main(){
     int n,i,x;
     Node* root=NULL;
@@ -64,7 +64,8 @@ int main(){
     root->right = new Node(3);
     root->left->left = new Node(4);
     root->left->right = new Node(5);
-    cout<<diameter(root);
+    cout<<diameter(root)<<endl;
+    cout<<diameterBetter(root)<<endl;
     return 0;
 }
 

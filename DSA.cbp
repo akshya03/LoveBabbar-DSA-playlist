@@ -31,6 +31,22 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="array 13.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array 15.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array 16.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array 17.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="array 42.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -73,7 +89,31 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="backtracking 5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="binaryTree 1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 10.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 11.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 12.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 13.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="binaryTree 15.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -101,6 +141,22 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="binaryTree 9.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="bst 1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="bst 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="bst 5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="dp 1.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -125,6 +181,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="dp 5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="dp 7.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -137,11 +197,34 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="graph 12.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="graph 2.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="graph 3.cpp" />
+		<Unit filename="graph 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="graph 4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="graph 45.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="graph 6.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="graph 7.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="greedy 1.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -154,8 +237,23 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="heap 1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="linkedList 1.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="linkedList 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="linkedList 4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="linkedList 6.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -187,11 +285,24 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="search&amp;sort 4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="search&amp;sort 5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="stk&amp;que 4.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
 		<Unit filename="string 1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 10.cpp" />
+		<Unit filename="string 16.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -208,6 +319,16 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="string 5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 6.cpp" />
+		<Unit filename="string 7.cpp" />
+		<Unit filename="string 8.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="string 9.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>

@@ -20,9 +20,11 @@ void displayResult(const vector<vector<int>> &board,int n){
     cout<<"Solution"<<k++<<endl;
     for(i=0;i<n;++i){
         for(j=0;j<n;++j){
-            if(board[i][j])
-                cout<<i<<","<<j<<endl;
+            //if(board[i][j])
+            //    cout<<i<<","<<j<<endl;
+            cout<<board[i][j]<<" ";
         }
+        cout<<endl;
     }
     //cout<<endl;
 }
@@ -72,6 +74,7 @@ void solve(int n){
 
     vector<vector<int>> board(n,vector<int> (n,0));
 
+    //sending initial row index as 0
     helper(board,n,0);
 }
 
